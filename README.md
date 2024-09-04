@@ -24,6 +24,3 @@ I'm eager to collaborate on any project to gain more experience.
 
 ### 📫 Contact Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/johnny-rojas-cifra).
-
-### Pronouns
-He/him
