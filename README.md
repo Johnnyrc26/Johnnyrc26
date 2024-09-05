@@ -24,3 +24,6 @@ I'm eager to collaborate on any project to gain more experience.
 
 ### 📫 Contact Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/johnny-rojas-cifra).
+
+### Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,babel,discord,git,github,tailwind,vite,mongodb,nodejs,npm,figma,regex,vscode,apple)](https://skillicons.dev)
