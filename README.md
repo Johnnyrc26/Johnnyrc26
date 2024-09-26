@@ -16,8 +16,9 @@ I'm particularly interested in UX/UI design and learning new programming languag
 
 ### 🎯 Next Learning Goals
 - SQL
-- Nest
-- Python
+- TypeScript
+- Next.js
+
 
 ### 🤝 Open to Collaborate
 I'm eager to collaborate on any project to gain more experience.
