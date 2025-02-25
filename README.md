@@ -1,24 +1,13 @@
-## 👨‍💻 Full Stack Developer | Johnny Rojas
+## 👨‍💻 Full Stack Developer | UX/UI
 
-I am a Full Stack Developer with recent training in web development. I am proficient in various front-end and back-end technologies and have a background in marketing, communications, and project management. I excel at balancing business and user needs by applying agile methodologies and client-centric approaches. My strengths lie in effective communication and teamwork.
+I am a Front End Developer with Stack MERN and experience in creating digital products focused on user experience. My approach combines design, development and data analysis to optimize interfaces and improve conversions. With knowledge on agile methodologies and product strategies, I bring a strategic, functional and aesthetic vision to each project.
 
-### 🌟 Interests
-I'm particularly interested in UX/UI design and learning new programming languages and database queries. I'm fascinated by the creation of logic and the entire process involved in project development.
-
-### 📚 Currently Learning
-- JavaScript
-- HTML
-- CSS (TailWind)
-- React, React Hook, Vite
-- Node.js
-- Express
-- MongoDB, Mongoose
-
-### 🎯 Next Learning Goals
-- SQL
-- TypeScript
-- Next.js
-
+- **Frontend Development & UX/UI**: 🚀 React, TypeScript, JavaScript, HTML/CSS, Tailwind, Material, Chakra UI, Next UI, Figma, Zustand, Unit Test Mocha, Chai  
+- **Backend & Databases**: ⚙️ Node.js, Express, MongoDB, Mongo Atlas, Keycloak  
+- **Work Methodologies**: 🧩 Agile, Scrum, TDD, Jira, Trello, Clean code practices  
+- **Digital Strategy & Project Management**: 🌟 Brand creation, Optimization of business models, Storytelling  
+- **Tools & Collaboration**: 🛠️ Git, GitHub, npm, Experience design with creative and technical teams, Excellent communication and collaboration  
+- **Languages**: 🇪🇸 Spanish (native), 🇬🇧 English (B2-B1)  
 
 ### 🤝 Open to Collaborate
 I'm eager to collaborate on any project to gain more experience.
