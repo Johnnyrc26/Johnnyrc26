@@ -4,7 +4,7 @@ I am a Front End Developer with Stack MERN and experience in creating digital pr
 
 - **Frontend Development & UX/UI**: 🚀 React, TypeScript, JavaScript, HTML/CSS, Tailwind, UI Frameworks, Figma, Zustand, Unit Test Mocha, Chai  
 - **Backend & Databases**: ⚙️ Node.js, Express, MongoDB, Mongo Atlas, Keycloak  
-- **Work Methodologies**: 🧩 Agile, Scrum, TDD, Jira, Trello, Clean code practices  
+- **Work Methodologies**: 🧩 Agile, Scrum, TDD, Trello, Clean code practices  
 - **Digital Strategy & Project Management**: 🌟 Brand creation, Optimization of business models, Storytelling  
 - **Tools & Collaboration**: 🛠️ Git, GitHub, npm, Experience design with creative and technical teams, Excellent communication and collaboration  
 - **Languages**: 🇪🇸 Spanish (native), 🇬🇧 English (B2-B1)  
