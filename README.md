@@ -2,7 +2,7 @@
 
 I am a Front End Developer with Stack MERN and experience in creating digital products focused on user experience. My approach combines design, development and data analysis to optimize interfaces and improve conversions. With knowledge on agile methodologies and product strategies, I bring a strategic, functional and aesthetic vision to each project.
 
-- **Frontend Development & UX/UI**: 🚀 React, TypeScript, JavaScript, HTML/CSS, Tailwind, UI Frameworks, Figma, Zustand, Unit Test Mocha, Chai  
+- **Frontend Development & UX/UI**: 🚀 React, TypeScript, JavaScript, HTML, CSS, Tailwind, UI Frameworks, Figma, Zustand, Unit Test Mocha, Chai  
 - **Backend & Databases**: ⚙️ Node.js, Express, MongoDB, Mongo Atlas, Keycloak  
 - **Work Methodologies**: 🧩 Agile, Scrum, TDD, Trello, Clean code practices  
 - **Digital Strategy & Project Management**: 🌟 Brand creation, Optimization of business models, Storytelling  
@@ -16,4 +16,4 @@ I'm eager to collaborate on any project to gain more experience.
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/johnny-rojas-cifra).
 
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,js,ts,html,css,figma,tailwind,git,github,vscode,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,js,ts,html,css,figma,tailwind,git,github,vscode,vite,docker,materialui,nextjs,npm,)](https://skillicons.dev)
